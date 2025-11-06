@@ -21,12 +21,7 @@ interface PokedexTableGridProps {
   game: Game;
 }
 
-export const PokedexTableGrid = ({
-  pokemonData,
-  showPokemons,
-  showShiny = false,
-  game = "nacional",
-}: PokedexTableGridProps) => {
+export const PokedexTableGrid = (PokedexTableGridProps) => {
   const screenSize = useScreenSize();
   const isMobile = screenSize.size === "xs";
   const cellStyles = "border-l-2 border-default p-0 sm:p-1 text-center";
