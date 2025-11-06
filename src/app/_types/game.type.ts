@@ -1,1 +1,1 @@
-export type Game = "nacional" | "seaglass" | "palodex";
+export type Game = "palodex";

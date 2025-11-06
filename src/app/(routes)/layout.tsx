@@ -15,9 +15,9 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   title: "PΛLΘDEX | Pokédex",
   description:
-    "Pokédex nacional completa con interfaz de usuario moderna tanto para ordenadores como para dispositivos móviles.",
+    "Pokédex custom completa con interfaz de usuario moderna tanto para ordenadores como para dispositivos móviles.",
   keywords:
-    "pokémon,pokemon,pokédex,pokedex,palodex,how2palo,pokédex móvil,pokedex movil,pokédexmóvil,pokedexmovil,nacional,pokédex nacional,pokedex nacional,pokédexnacional,pokedexnacional",
+    "pokémon,pokemon,pokédex,pokedex,palodex,how2palo,pokédex móvil,pokedex movil,pokédexmóvil,pokedexmovil",
 };
 
 export default function RootLayout({

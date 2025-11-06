@@ -4,7 +4,7 @@ import { Pokedex } from "../../_components/pokedex/Pokedex";
 import { ScrollToTopButton } from "../../_components/pokedex/ScrollToTopButton";
 import { Game } from "@/app/_types/game.type";
 
-const validGames: Game[] = ["nacional", "seaglass", "palodex"];
+const validGames: Game[] = ["palodex"];
 
 export default function Home() {
   const { pokedex } = useParams();
