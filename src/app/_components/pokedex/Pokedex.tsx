@@ -189,21 +189,6 @@ export const Pokedex = ({ game }: PokedexProps) => {
         showShiny={showShiny}
         setShowShiny={setShowShiny}
       />
-      {gridType === "table" ? (
-        <PokedexTableGrid
-          pokemonData={filteredList}
-          showPokemons={showPokemons}
-          showShiny={showShiny}
-          game={game}
-        />
-      ) : (
-        <PokedexGrid
-          pokemonData={filteredList}
-          showPokemons={showPokemons}
-          isMini={gridType === "mini"}
-          showShiny={showShiny}
-        />
-      )}
     </div>
   );
 };
