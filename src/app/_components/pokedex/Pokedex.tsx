@@ -8,7 +8,6 @@ import { isNumber, stringToInt } from "@/app/_utils/format";
 import { GridType, defaultGenIndexFilter, genIndexMap } from "./Pokedex.type";
 import { PokedexFilter } from "./PokedexFilter";
 import { PokedexGrid } from "./PokedexGrid";
-import { PokedexTableGrid } from "./PokedexTableGrid";
 import { Gen } from "@/app/_types/gen.type";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { Game } from "@/app/_types/game.type";
