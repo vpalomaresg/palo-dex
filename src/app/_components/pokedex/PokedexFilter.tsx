@@ -167,8 +167,6 @@ export const PokedexFilter = ({
     if (gridType === "regular") {
       setGridType("mini");
     } else if (gridType === "mini") {
-      setGridType("table");
-    } else {
       setGridType("regular");
     }
   }
