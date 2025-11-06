@@ -87,17 +87,9 @@ export const PrimaryNavBar = () => {
   }
 
   let menuItems: MenuItem[] = [
+    { label: "PΛLΘDEX", href: "/palodex", newtab: false },
     { label: "Dex Nacional", href: "/nacional", newtab: false },
-    {
-      label: "Otras Dex",
-      href: "",
-      newtab: false,
-      isDropdown: true,
-      dropdownMenuItems: [
-        { label: "Dex de Seaglass", href: "/seaglass" },
-        { label: "Palo Dex", href: "/palodex" },
-      ],
-    },
+    { label: "Seaglass Dex", href: "/seaglass", newtab: false },
     { label: "Acerca de", href: "/about", newtab: false },
   ];
 
