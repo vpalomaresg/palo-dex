@@ -1,0 +1,2 @@
+# palo-dex
+POKéDEX
