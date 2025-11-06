@@ -95,7 +95,7 @@ export const PrimaryNavBar = () => {
       isDropdown: true,
       dropdownMenuItems: [
         { label: "Dex de Seaglass", href: "/seaglass" },
-        { label: "Dex de Lazarus", href: "/lazarus" },
+        { label: "Palo Dex", href: "/palodex" },
       ],
     },
     { label: "Acerca de", href: "/about", newtab: false },

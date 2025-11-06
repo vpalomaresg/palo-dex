@@ -7,5 +7,5 @@ import { Game } from "../_types/game.type";
 export const pokedexMap: Record<Game, IPokedexService> = {
   nacional: nationalDex,
   seaglass: SeaglassPokedex,
-  lazarus: LazarusPokedex,
+  palodex: LazarusPokedex,
 };
