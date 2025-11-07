@@ -12,12 +12,13 @@ const config: Config = {
   ],
   theme: {
     colors: {
-      "sb-primary": "#80c060",
+      "sb-primary": "#ff1c1c",
       "sb-secondary": "#69b6d8",
       "porygon-blue": "#69b6d8",
       "porygon-pink": "#e15e74",
       "sb-green": "#80c060",
       "sb-dark-green": "#398c31",
+      "palo": "#2fb1aa",
     },
   },
   darkMode: "class",

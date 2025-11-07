@@ -3,7 +3,7 @@
 export const SecretBaseLogo = () => {
   return (
     <svg
-      className="h-10 fill-sb-primary"
+      className="h-10 fill-palo"
       viewBox="0 0 375.1851851851851 78.60415620511951"
     >
       <g transform="matrix(1.1501077025100939,0,0,1.1501077025100939,-25.097177033528087,-18.203296054663166)">
