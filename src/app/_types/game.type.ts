@@ -1,1 +1,1 @@
-export type Game = "dex";
+export type Game = "palodex";

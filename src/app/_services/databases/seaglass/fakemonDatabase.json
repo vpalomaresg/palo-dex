@@ -72,7 +72,7 @@
         {
           "game_index": 172,
           "version": {
-            "name": "2",
+            "name": "crystal",
             "url": "https://pokeapi.co/api/v2/version/6/"
           }
         },
@@ -128,7 +128,7 @@
         {
           "game_index": 172,
           "version": {
-            "name": "4",
+            "name": "platinum",
             "url": "https://pokeapi.co/api/v2/version/14/"
           }
         },
@@ -221,7 +221,7 @@
             {
               "rarity": 5,
               "version": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version/14/"
               }
             },
@@ -284,7 +284,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -317,7 +317,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -339,7 +339,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -372,7 +372,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -394,7 +394,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -416,7 +416,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -446,7 +446,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -457,7 +457,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             }
@@ -487,7 +487,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -520,7 +520,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -542,7 +542,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -553,7 +553,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -575,7 +575,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -586,7 +586,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -597,7 +597,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -619,7 +619,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -649,7 +649,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -660,7 +660,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             }
@@ -690,7 +690,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -731,7 +731,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -753,7 +753,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -764,7 +764,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -783,7 +783,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -813,7 +813,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -854,7 +854,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -887,7 +887,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -909,7 +909,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -964,7 +964,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -986,7 +986,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -1008,7 +1008,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -1019,7 +1019,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -1041,7 +1041,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -1060,7 +1060,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -1082,7 +1082,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -1112,7 +1112,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             }
@@ -1142,7 +1142,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -1183,7 +1183,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -1216,7 +1216,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -1238,7 +1238,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -1293,7 +1293,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -1315,7 +1315,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -1337,7 +1337,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -1348,7 +1348,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -1381,7 +1381,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -1400,7 +1400,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -1433,7 +1433,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -1455,7 +1455,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -1510,7 +1510,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -1532,7 +1532,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -1554,7 +1554,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -1565,7 +1565,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -1598,7 +1598,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -1628,7 +1628,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -1672,7 +1672,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -1683,7 +1683,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -1716,7 +1716,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -1727,7 +1727,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -1815,7 +1815,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -1826,7 +1826,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -1859,7 +1859,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -1870,7 +1870,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -1903,7 +1903,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -1914,7 +1914,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -1925,7 +1925,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -1958,7 +1958,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -1988,7 +1988,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -2021,7 +2021,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -2043,7 +2043,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -2098,7 +2098,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -2120,7 +2120,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -2142,7 +2142,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -2153,7 +2153,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -2186,7 +2186,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -2216,7 +2216,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -2249,7 +2249,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -2271,7 +2271,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -2326,7 +2326,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -2348,7 +2348,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -2370,7 +2370,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -2419,7 +2419,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -2460,7 +2460,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -2493,7 +2493,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -2515,7 +2515,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -2570,7 +2570,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -2592,7 +2592,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -2614,7 +2614,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -2655,7 +2655,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -2707,7 +2707,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -2729,7 +2729,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -2784,7 +2784,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -2806,7 +2806,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -2828,7 +2828,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -2839,7 +2839,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -2861,7 +2861,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -2880,7 +2880,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -2902,7 +2902,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -2932,7 +2932,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -2965,7 +2965,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -2987,7 +2987,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -3020,7 +3020,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -3042,7 +3042,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -3064,7 +3064,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -3094,7 +3094,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -3116,7 +3116,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -3138,7 +3138,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -3160,7 +3160,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -3190,7 +3190,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -3223,7 +3223,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -3245,7 +3245,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -3300,7 +3300,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -3322,7 +3322,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -3363,7 +3363,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -3396,7 +3396,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -3418,7 +3418,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -3473,7 +3473,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -3495,7 +3495,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -3517,7 +3517,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -3528,7 +3528,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -3550,7 +3550,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -3580,7 +3580,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -3602,7 +3602,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -3646,7 +3646,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -3668,7 +3668,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -3690,7 +3690,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -3701,7 +3701,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -3723,7 +3723,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -3753,7 +3753,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -3775,7 +3775,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -3797,7 +3797,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -3808,7 +3808,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -3819,7 +3819,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -3830,7 +3830,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             }
@@ -3860,7 +3860,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             }
@@ -3901,7 +3901,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -3923,7 +3923,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -3945,7 +3945,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -3956,7 +3956,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -3978,7 +3978,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -4008,7 +4008,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -4041,7 +4041,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -4063,7 +4063,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -4096,7 +4096,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -4118,7 +4118,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -4140,7 +4140,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -4151,7 +4151,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -4173,7 +4173,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -4203,7 +4203,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -4236,7 +4236,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -4258,7 +4258,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -4313,7 +4313,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -4335,7 +4335,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -4357,7 +4357,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -4368,7 +4368,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -4390,7 +4390,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -4420,7 +4420,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -4453,7 +4453,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -4475,7 +4475,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -4530,7 +4530,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -4552,7 +4552,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -4574,7 +4574,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -4585,7 +4585,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -4607,7 +4607,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -4637,7 +4637,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -4659,7 +4659,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -4700,7 +4700,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             }
@@ -4730,7 +4730,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             }
@@ -4760,7 +4760,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -4793,7 +4793,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -4826,7 +4826,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -4848,7 +4848,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -4870,7 +4870,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -4881,7 +4881,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -4903,7 +4903,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -4933,7 +4933,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -4966,7 +4966,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -4988,7 +4988,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -5043,7 +5043,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -5065,7 +5065,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -5087,7 +5087,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -5098,7 +5098,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -5109,7 +5109,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -5131,7 +5131,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             },
@@ -5142,7 +5142,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -5172,7 +5172,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -5194,7 +5194,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -5235,7 +5235,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -5268,7 +5268,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -5312,7 +5312,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -5334,7 +5334,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -5356,7 +5356,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -5416,7 +5416,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -5449,7 +5449,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -5471,7 +5471,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -5526,7 +5526,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -5548,7 +5548,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -5570,7 +5570,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -5581,7 +5581,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -5622,7 +5622,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -5655,7 +5655,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -5677,7 +5677,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -5699,7 +5699,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -5721,7 +5721,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -5732,7 +5732,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -5754,7 +5754,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -5784,7 +5784,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -5817,7 +5817,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -5839,7 +5839,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -5894,7 +5894,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -5916,7 +5916,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -5938,7 +5938,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -5968,7 +5968,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -6001,7 +6001,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -6023,7 +6023,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -6056,7 +6056,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -6078,7 +6078,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -6100,7 +6100,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -6111,7 +6111,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -6133,7 +6133,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -6163,7 +6163,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -6196,7 +6196,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -6218,7 +6218,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -6273,7 +6273,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -6295,7 +6295,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -6317,7 +6317,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -6347,7 +6347,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -6380,7 +6380,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -6402,7 +6402,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -6435,7 +6435,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -6457,7 +6457,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -6479,7 +6479,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -6490,7 +6490,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -6512,7 +6512,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -6542,7 +6542,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -6575,7 +6575,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -6597,7 +6597,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -6641,7 +6641,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -6652,7 +6652,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -6663,7 +6663,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -6674,7 +6674,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -6726,7 +6726,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -6759,7 +6759,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -6781,7 +6781,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -6836,7 +6836,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -6858,7 +6858,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -6880,7 +6880,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -6910,7 +6910,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "2",
+                "name": "crystal",
                 "url": "https://pokeapi.co/api/v2/version-group/4/"
               }
             },
@@ -6943,7 +6943,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -6965,7 +6965,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -7020,7 +7020,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -7042,7 +7042,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -7064,7 +7064,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -7075,7 +7075,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -7097,7 +7097,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -7127,7 +7127,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -7160,7 +7160,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -7182,7 +7182,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -7204,7 +7204,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -7215,7 +7215,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -7237,7 +7237,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -7256,7 +7256,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -7278,7 +7278,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -7289,7 +7289,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -7300,7 +7300,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -7311,7 +7311,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             }
@@ -7352,7 +7352,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -7374,7 +7374,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -7429,7 +7429,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -7451,7 +7451,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -7473,7 +7473,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -7484,7 +7484,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -7506,7 +7506,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -7525,7 +7525,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             }
@@ -7566,7 +7566,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -7588,7 +7588,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -7621,7 +7621,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -7643,7 +7643,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -7665,7 +7665,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -7676,7 +7676,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -7698,7 +7698,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             },
@@ -7709,7 +7709,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -7728,7 +7728,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -7750,7 +7750,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -7761,7 +7761,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -7772,7 +7772,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -7783,7 +7783,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -7794,7 +7794,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -7835,7 +7835,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -7857,7 +7857,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -7890,7 +7890,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -7912,7 +7912,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -7934,7 +7934,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -7945,7 +7945,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -7967,7 +7967,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -8008,7 +8008,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -8030,7 +8030,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -8074,7 +8074,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             }
@@ -8104,7 +8104,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -8137,7 +8137,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -8159,7 +8159,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -8181,7 +8181,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -8192,7 +8192,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -8214,7 +8214,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -8233,7 +8233,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -8255,7 +8255,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -8266,7 +8266,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -8277,7 +8277,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -8296,7 +8296,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -8307,7 +8307,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -8318,7 +8318,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -8359,7 +8359,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/6/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -8392,7 +8392,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/6/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -8414,7 +8414,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/6/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -8436,7 +8436,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/6/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -8477,7 +8477,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "3",
+                "name": "firered-leafgreen",
                 "url": "https://pokeapi.co/api/v2/version-group/7/"
               }
             },
@@ -8499,7 +8499,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -8543,7 +8543,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -8554,7 +8554,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -8595,7 +8595,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -8636,7 +8636,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -8669,7 +8669,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -8691,7 +8691,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -8713,7 +8713,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -8724,7 +8724,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -8746,7 +8746,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -8776,7 +8776,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -8798,7 +8798,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -8820,7 +8820,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -8839,7 +8839,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -8861,7 +8861,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -8872,7 +8872,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -8883,7 +8883,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -8913,7 +8913,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -8946,7 +8946,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -8968,7 +8968,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -8990,7 +8990,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -9001,7 +9001,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -9012,7 +9012,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -9045,7 +9045,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             },
@@ -9056,7 +9056,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -9086,7 +9086,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -9127,7 +9127,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -9160,7 +9160,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -9182,7 +9182,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -9204,7 +9204,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -9215,7 +9215,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -9237,7 +9237,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -9267,7 +9267,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "4",
+                "name": "platinum",
                 "url": "https://pokeapi.co/api/v2/version-group/9/"
               }
             },
@@ -9300,7 +9300,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -9322,7 +9322,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -9344,7 +9344,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -9374,7 +9374,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -9404,7 +9404,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -9426,7 +9426,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -9448,7 +9448,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -9459,7 +9459,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             }
@@ -9489,7 +9489,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -9511,7 +9511,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -9533,7 +9533,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -9563,7 +9563,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -9585,7 +9585,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -9607,7 +9607,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -9637,7 +9637,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -9659,7 +9659,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -9681,7 +9681,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -9692,7 +9692,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -9714,7 +9714,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -9733,7 +9733,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -9744,7 +9744,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -9755,7 +9755,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -9766,7 +9766,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -9796,7 +9796,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "5",
+                "name": "black-2-white-2",
                 "url": "https://pokeapi.co/api/v2/version-group/14/"
               }
             },
@@ -9818,7 +9818,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -9840,7 +9840,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -9851,7 +9851,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -9862,7 +9862,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -9892,7 +9892,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -9914,7 +9914,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -9925,7 +9925,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -9947,7 +9947,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             },
@@ -9958,7 +9958,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -9977,7 +9977,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -9988,7 +9988,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -10007,7 +10007,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -10029,7 +10029,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -10059,7 +10059,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "6",
+                "name": "omega-ruby-alpha-sapphire",
                 "url": "https://pokeapi.co/api/v2/version-group/16/"
               }
             },
@@ -10081,7 +10081,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             }
@@ -10111,7 +10111,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
               },
               "version_group": {
-                "name": "7",
+                "name": "ultra-sun-ultra-moon",
                 "url": "https://pokeapi.co/api/v2/version-group/18/"
               }
             },
@@ -10122,7 +10122,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -10144,7 +10144,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -10163,7 +10163,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "8",
+                "name": "sword-shield",
                 "url": "https://pokeapi.co/api/v2/version-group/20/"
               }
             },
@@ -10185,7 +10185,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -10204,7 +10204,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -10223,7 +10223,7 @@
                 "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
               },
               "version_group": {
-                "name": "9",
+                "name": "scarlet-violet",
                 "url": "https://pokeapi.co/api/v2/version-group/25/"
               }
             }
@@ -10275,7 +10275,7 @@
         },
         "versions": {
           "generation-i": {
-            "1": {
+            "red-blue": {
               "back_default": null,
               "back_gray": null,
               "back_transparent": null,
@@ -10293,7 +10293,7 @@
             }
           },
           "generation-ii": {
-            "2": {
+            "crystal": {
               "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/back/172.png",
               "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/back/shiny/172.png",
               "back_shiny_transparent": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/transparent/back/shiny/172.png",
@@ -10323,7 +10323,7 @@
               "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/emerald/172.png",
               "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/emerald/shiny/172.png"
             },
-            "3": {
+            "firered-leafgreen": {
               "back_default": null,
               "back_shiny": null,
               "front_default": null,
@@ -10357,7 +10357,7 @@
               "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/shiny/172.png",
               "front_shiny_female": null
             },
-            "4": {
+            "platinum": {
               "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/platinum/back/172.png",
               "back_female": null,
               "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/platinum/back/shiny/172.png",
@@ -10409,7 +10409,7 @@
               "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/icons/172.png",
               "front_female": null
             },
-            "7": {
+            "ultra-sun-ultra-moon": {
               "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/172.png",
               "front_female": null,
               "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/172.png",
@@ -10532,7 +10532,7 @@
             "url": "https://pokeapi.co/api/v2/language/9/"
           },
           "version": {
-            "name": "2",
+            "name": "crystal",
             "url": "https://pokeapi.co/api/v2/version/6/"
           }
         },
@@ -10620,7 +10620,7 @@
             "url": "https://pokeapi.co/api/v2/language/9/"
           },
           "version": {
-            "name": "4",
+            "name": "platinum",
             "url": "https://pokeapi.co/api/v2/version/14/"
           }
         },

@@ -1,10 +1,10 @@
 export type Gen =
-  | "1"
-  | "2"
-  | "3"
-  | "4"
-  | "5"
-  | "6"
-  | "7"
-  | "8"
-  | "9";
+  | "red-blue"
+  | "crystal"
+  | "firered-leafgreen"
+  | "platinum"
+  | "black-2-white-2"
+  | "omega-ruby-alpha-sapphire"
+  | "ultra-sun-ultra-moon"
+  | "sword-shield"
+  | "scarlet-violet";

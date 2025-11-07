@@ -87,7 +87,7 @@ export const PrimaryNavBar = () => {
   }
 
   let menuItems: MenuItem[] = [
-    { label: "PΛLΘDEX", href: "/dex", newtab: false },
+    { label: "PΛLΘDEX", href: "/palodex", newtab: false },
     { label: "Acerca de", href: "/about", newtab: false },
   ];
 
