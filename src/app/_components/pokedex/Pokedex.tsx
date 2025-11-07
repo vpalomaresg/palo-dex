@@ -145,22 +145,22 @@ export const Pokedex = ({ game }: PokedexProps) => {
   function updateQueryParams() {
     const params = new URLSearchParams();
     if (searchString !== "") {
-      params.set("search", searchString);
+      params.set("buscar", searchString);
     }
     if (type1filter) {
-      params.set("type1", type1filter);
+      params.set("tipo1", type1filter);
     }
     if (type2filter) {
-      params.set("type2", type2filter);
+      params.set("tipo2", type2filter);
     }
     if (genFilter) {
       params.set("gen", genFilter);
     }
     if (gridType !== "regular") {
-      params.set("grid", gridType);
+      params.set("vista", gridType);
     }
     if (showShiny) {
-      params.set("shiny", "1");
+      params.set("shiny", "si");
     }
     router.push(pathname + "?" + params.toString());
   }

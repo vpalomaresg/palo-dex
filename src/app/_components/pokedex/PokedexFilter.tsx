@@ -21,39 +21,39 @@ type selectorItem<T> = {
 const genSelectorItems: selectorItem<Gen>[] = [
   {
     label: "1ᵃ GEN",
-    value: "red-blue",
+    value: "1",
   },
   {
     label: "2ᵃ GEN",
-    value: "crystal",
+    value: "2",
   },
   {
     label: "3ᵃ GEN",
-    value: "firered-leafgreen",
+    value: "3",
   },
   {
     label: "4ᵃ GEN",
-    value: "platinum",
+    value: "4",
   },
   {
     label: "5ᵃ GEN",
-    value: "black-2-white-2",
+    value: "5",
   },
   {
     label: "6ᵃ GEN",
-    value: "omega-ruby-alpha-sapphire",
+    value: "6",
   },
   {
     label: "7ᵃ GEN",
-    value: "ultra-sun-ultra-moon",
+    value: "7",
   },
   {
     label: "8ᵃ GEN",
-    value: "sword-shield",
+    value: "8",
   },
   {
     label: "9ᵃ GEN",
-    value: "scarlet-violet",
+    value: "9",
   },
 ];
 
@@ -184,7 +184,7 @@ export const PokedexFilter = ({
           }}
           type="search"
           variant="faded"
-          placeholder="Search by name or dex number..."
+          placeholder="Busca por nombre o número..."
           defaultValue={searchString}
           size="md"
           disableAnimation
@@ -207,7 +207,7 @@ export const PokedexFilter = ({
           {/* Types Filter */}
           <div className="h-full w-full min-w-40">
             <ListBoxFilter
-              placeholder="Type 1"
+              placeholder="Tipo 1"
               listItems={typeSelectorItems}
               defaultSelectedKey={type1Filter}
               setter={setType1Filter}
@@ -215,7 +215,7 @@ export const PokedexFilter = ({
           </div>
           <div className="h-full w-full min-w-40">
             <ListBoxFilter
-              placeholder="Type 2"
+              placeholder="Tipo 2"
               listItems={typeSelectorItems}
               defaultSelectedKey={type2Filter}
               setter={setType2Filter}
@@ -227,7 +227,7 @@ export const PokedexFilter = ({
           {/* Gen Filter */}
           <div className="h-full w-full min-w-44">
             <ListBoxFilter
-              placeholder="Generation"
+              placeholder="Generación"
               listItems={genSelectorItems}
               defaultSelectedKey={genFilter}
               setter={setGenFilter}
