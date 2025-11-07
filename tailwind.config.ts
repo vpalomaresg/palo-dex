@@ -12,7 +12,7 @@ const config: Config = {
   ],
   theme: {
     colors: {
-      "sb-primary": "#ff1c1c",
+      "sb-primary": "#e15e74",
       "sb-secondary": "#69b6d8",
       "porygon-blue": "#69b6d8",
       "porygon-pink": "#e15e74",

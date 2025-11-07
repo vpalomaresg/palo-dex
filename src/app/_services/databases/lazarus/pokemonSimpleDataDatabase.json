@@ -62,8 +62,8 @@
   {
     "id": 3,
     "pokeapiId": 10244,
-    "name": "Hisuian Decidueye",
-    "formName": "Hisuian Form",
+    "name": "Decidueye (Hisui)",
+    "formName": "Forma Hisui",
     "types": ["grass", "fighting"],
     "stats": {
       "hp": 88,
