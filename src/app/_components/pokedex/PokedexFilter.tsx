@@ -184,7 +184,7 @@ export const PokedexFilter = ({
           }}
           type="search"
           variant="faded"
-          placeholder="Search by name or dex number..."
+          placeholder="Buscar por nombre o número..."
           defaultValue={searchString}
           size="md"
           disableAnimation
@@ -227,7 +227,7 @@ export const PokedexFilter = ({
           {/* Gen Filter */}
           <div className="h-full w-full min-w-44">
             <ListBoxFilter
-              placeholder="Generation"
+              placeholder="Generación"
               listItems={genSelectorItems}
               defaultSelectedKey={genFilter}
               setter={setGenFilter}
