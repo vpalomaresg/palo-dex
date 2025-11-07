@@ -120,11 +120,11 @@ export const Pokedex = ({ game }: PokedexProps) => {
     if (search) {
       setSearchString(search);
     }
-    const type1 = searchParams.get("type1") as PokemonType;
+    const type1 = searchParams.get("tipo1") as PokemonType;
     if (type1) {
       setType1Filter(type1);
     }
-    const type2 = searchParams.get("type2") as PokemonType;
+    const type2 = searchParams.get("tipo2") as PokemonType;
     if (type2) {
       setType1Filter(type2);
     }
@@ -148,10 +148,10 @@ export const Pokedex = ({ game }: PokedexProps) => {
       params.set("search", searchString);
     }
     if (type1filter) {
-      params.set("type1", type1filter);
+      params.set("tipo1", type1filter);
     }
     if (type2filter) {
-      params.set("type2", type2filter);
+      params.set("tipo2", type2filter);
     }
     if (genFilter) {
       params.set("gen", genFilter);
