@@ -207,7 +207,7 @@ export const PokedexFilter = ({
           {/* Types Filter */}
           <div className="h-full w-full min-w-40">
             <ListBoxFilter
-              placeholder="Type 1"
+              placeholder="Tipo 1"
               listItems={typeSelectorItems}
               defaultSelectedKey={type1Filter}
               setter={setType1Filter}
@@ -215,7 +215,7 @@ export const PokedexFilter = ({
           </div>
           <div className="h-full w-full min-w-40">
             <ListBoxFilter
-              placeholder="Type 2"
+              placeholder="Tipo 2"
               listItems={typeSelectorItems}
               defaultSelectedKey={type2Filter}
               setter={setType2Filter}
