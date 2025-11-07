@@ -3,7 +3,7 @@ import { PokemonType } from "../_types/pokemon.type";
 const typeColors: Record<PokemonType, string> = {
   [PokemonType.Normal]: "#9fa19f",
   [PokemonType.Fire]: "#e62829",
-  [PokemonType.Water]: "#2980ef",
+  [PokemonType.Agua]: "#2980ef",
   [PokemonType.Electric]: "#fac000",
   [PokemonType.Grass]: "#3fa129",
   [PokemonType.Ice]: "#3fd8ff",
