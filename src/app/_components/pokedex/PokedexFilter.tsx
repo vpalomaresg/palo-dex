@@ -159,7 +159,7 @@ export const PokedexFilter = ({
   const [isShowFilters, setIsShowFilters] = useState(false);
   const iconMap: Record<GridType, IconType> = {
     regular: BsGrid3X3GapFill,
-    mini: FaListUl,
+    mini: BsFillGridFill,
     table: BsFillGridFill,
   };
 
