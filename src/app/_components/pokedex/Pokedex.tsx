@@ -160,7 +160,7 @@ export const Pokedex = ({ game }: PokedexProps) => {
       params.set("vista", gridType);
     }
     if (showShiny) {
-      params.set("shiny", "1");
+      params.set("shiny", "si");
     }
     router.push(pathname + "?" + params.toString());
   }
