@@ -5,6 +5,7 @@ import { Autocomplete, AutocompleteItem, Input } from "@heroui/react";
 import { FaSearch } from "react-icons/fa";
 import { PrimaryIconButton } from "../PrimaryIconButton";
 import { BsFillGridFill, BsGrid3X3GapFill } from "react-icons/bs";
+import { FaListUl } from "react-icons/fa";
 import { MdFilterAlt, MdFilterAltOff } from "react-icons/md";
 import { HiSparkles } from "react-icons/hi2";
 import { IconType } from "react-icons";
@@ -158,7 +159,8 @@ export const PokedexFilter = ({
   const [isShowFilters, setIsShowFilters] = useState(false);
   const iconMap: Record<GridType, IconType> = {
     regular: BsGrid3X3GapFill,
-    mini: BsFillGridFill,
+    mini: FaListUl,
+    table: BsFillGridFill,
   };
 
   function toggleGrid() {
