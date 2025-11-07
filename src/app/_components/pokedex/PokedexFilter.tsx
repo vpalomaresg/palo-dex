@@ -60,7 +60,7 @@ const genSelectorItems: selectorItem<Gen>[] = [
 const typeSelectorItems: selectorItem<PokemonType>[] = [
   { label: "Normal", value: PokemonType.Normal },
   { label: "Fuego", value: PokemonType.Fire },
-  { label: "Agua", value: PokemonType.Agua },
+  { label: "Agua", value: PokemonType.Water },
   { label: "Eléctrico", value: PokemonType.Electric },
   { label: "Planta", value: PokemonType.Grass },
   { label: "Hielo", value: PokemonType.Ice },
