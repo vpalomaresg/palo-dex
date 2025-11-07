@@ -132,7 +132,7 @@ export const Pokedex = ({ game }: PokedexProps) => {
     if (gen) {
       setGenFilter(gen);
     }
-    const grid = searchParams.get("grid") as GridType;
+    const grid = searchParams.get("vista") as GridType;
     if (grid) {
       setGridType(grid);
     }
@@ -157,7 +157,7 @@ export const Pokedex = ({ game }: PokedexProps) => {
       params.set("gen", genFilter);
     }
     if (gridType !== "regular") {
-      params.set("grid", gridType);
+      params.set("vista", gridType);
     }
     if (showShiny) {
       params.set("shiny", "1");
