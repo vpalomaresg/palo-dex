@@ -68,7 +68,7 @@ const typeSelectorItems: selectorItem<PokemonType>[] = [
   { label: "Veneno", value: PokemonType.Poison },
   { label: "Tierra", value: PokemonType.Ground },
   { label: "Volador", value: PokemonType.Flying },
-  { label: "Psíquico", value: PokemonType.Psychic },
+  { label: "Psíquico", value: PokemonType.Psíquico },
   { label: "Bicho", value: PokemonType.Bug },
   { label: "Roca", value: PokemonType.Rock },
   { label: "Fantasma", value: PokemonType.Ghost },

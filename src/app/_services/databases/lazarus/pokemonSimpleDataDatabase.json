@@ -304,7 +304,7 @@
     "pokeapiId": 655,
     "name": "Delphox",
     "formName": null,
-    "types": ["fire", "psychic"],
+    "types": ["fire", "psíquico"],
     "stats": {
       "hp": 75,
       "attack": 69,

@@ -9,7 +9,7 @@ export enum PokemonType {
   Poison = "poison",
   Ground = "ground",
   Flying = "flying",
-  Psychic = "psychic",
+  Psíquico = "psíquico",
   Bug = "bug",
   Rock = "rock",
   Ghost = "ghost",

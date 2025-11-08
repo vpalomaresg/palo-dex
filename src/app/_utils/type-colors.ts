@@ -11,7 +11,7 @@ const typeColors: Record<PokemonType, string> = {
   [PokemonType.Poison]: "#8f41cb",
   [PokemonType.Ground]: "#915121",
   [PokemonType.Flying]: "#81b9ef",
-  [PokemonType.Psychic]: "#ef4179",
+  [PokemonType.Psíquico]: "#ef4179",
   [PokemonType.Bug]: "#91a119",
   [PokemonType.Rock]: "#afa981",
   [PokemonType.Ghost]: "#704170",
