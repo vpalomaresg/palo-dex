@@ -21,35 +21,35 @@ type selectorItem<T> = {
 const genSelectorItems: selectorItem<Gen>[] = [
   {
     label: "1ᵃ GEN",
-    value: "red-blue",
+    value: "1",
   },
   {
     label: "2ᵃ GEN",
-    value: "crystal",
+    value: "2",
   },
   {
     label: "3ᵃ GEN",
-    value: "firered-leafgreen",
+    value: "3",
   },
   {
     label: "4ᵃ GEN",
-    value: "platinum",
+    value: "4",
   },
   {
     label: "5ᵃ GEN",
-    value: "black-2-white-2",
+    value: "5",
   },
   {
     label: "6ᵃ GEN",
-    value: "omega-ruby-alpha-sapphire",
+    value: "6",
   },
   {
     label: "7ᵃ GEN",
-    value: "ultra-sun-ultra-moon",
+    value: "7",
   },
   {
     label: "8ᵃ GEN",
-    value: "sword-shield",
+    value: "8",
   },
   {
     label: "9ᵃ GEN",

@@ -16,13 +16,13 @@ export type GenIndex =
 export const defaultGenIndexFilter: GenIndex = [0, 99999];
 
 export const genIndexMap: Record<Gen, GenIndex> = {
-  "red-blue": [0, 151],
-  crystal: [152, 251],
-  "firered-leafgreen": [252, 386],
-  platinum: [387, 493],
-  "black-2-white-2": [494, 649],
-  "omega-ruby-alpha-sapphire": [650, 721],
-  "ultra-sun-ultra-moon": [722, 809],
-  "sword-shield": [810, 905],
+  "1": [0, 151],
+  "2": [152, 251],
+  "3": [252, 386],
+  "4": [387, 493],
+  "5": [494, 649],
+  "6": [650, 721],
+  "7": [722, 809],
+  "8": [810, 905],
   "9": [906, 1025],
 };
