@@ -62,7 +62,7 @@ const typeSelectorItems: selectorItem<PokemonType>[] = [
   { label: "Fuego", value: PokemonType.Fire },
   { label: "Agua", value: PokemonType.Water },
   { label: "Eléctrico", value: PokemonType.Eléctrico },
-  { label: "Planta", value: PokemonType.Grass },
+  { label: "Planta", value: PokemonType.Planta },
   { label: "Hielo", value: PokemonType.Ice },
   { label: "Lucha", value: PokemonType.Fighting },
   { label: "Veneno", value: PokemonType.Poison },

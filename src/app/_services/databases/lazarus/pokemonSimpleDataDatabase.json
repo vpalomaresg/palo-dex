@@ -4,7 +4,7 @@
     "pokeapiId": 722,
     "name": "Rowlet",
     "formName": null,
-    "types": ["grass", "flying"],
+    "types": ["planta", "flying"],
     "stats": {
       "hp": 68,
       "attack": 55,
@@ -24,7 +24,7 @@
     "pokeapiId": 723,
     "name": "Dartrix",
     "formName": null,
-    "types": ["grass", "flying"],
+    "types": ["planta", "flying"],
     "stats": {
       "hp": 78,
       "attack": 75,
@@ -44,7 +44,7 @@
     "pokeapiId": 724,
     "name": "Decidueye",
     "formName": null,
-    "types": ["grass", "ghost"],
+    "types": ["planta", "ghost"],
     "stats": {
       "hp": 78,
       "attack": 107,
@@ -64,7 +64,7 @@
     "pokeapiId": 10244,
     "name": "Decidueye (Hisui)",
     "formName": "Forma Hisui",
-    "types": ["grass", "fighting"],
+    "types": ["planta", "fighting"],
     "stats": {
       "hp": 88,
       "attack": 112,
@@ -204,7 +204,7 @@
     "pokeapiId": 650,
     "name": "Chespin",
     "formName": null,
-    "types": ["grass"],
+    "types": ["planta"],
     "stats": {
       "hp": 56,
       "attack": 61,
@@ -224,7 +224,7 @@
     "pokeapiId": 651,
     "name": "Quilladin",
     "formName": null,
-    "types": ["grass"],
+    "types": ["planta"],
     "stats": {
       "hp": 61,
       "attack": 78,
@@ -244,7 +244,7 @@
     "pokeapiId": 652,
     "name": "Chesnaught",
     "formName": null,
-    "types": ["grass", "fighting"],
+    "types": ["planta", "fighting"],
     "stats": {
       "hp": 88,
       "attack": 107,
@@ -384,7 +384,7 @@
     "pokeapiId": 906,
     "name": "Sprigatito",
     "formName": null,
-    "types": ["grass"],
+    "types": ["planta"],
     "stats": {
       "hp": 40,
       "attack": 61,
@@ -404,7 +404,7 @@
     "pokeapiId": 907,
     "name": "Floragato",
     "formName": null,
-    "types": ["grass"],
+    "types": ["planta"],
     "stats": {
       "hp": 61,
       "attack": 80,
@@ -424,7 +424,7 @@
     "pokeapiId": 908,
     "name": "Meowscarada",
     "formName": null,
-    "types": ["grass", "dark"],
+    "types": ["planta", "dark"],
     "stats": {
       "hp": 76,
       "attack": 110,

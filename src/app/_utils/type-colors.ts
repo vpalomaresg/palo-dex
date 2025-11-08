@@ -5,7 +5,7 @@ const typeColors: Record<PokemonType, string> = {
   [PokemonType.Fire]: "#e62829",
   [PokemonType.Water]: "#2980ef",
   [PokemonType.Eléctrico]: "#fac000",
-  [PokemonType.Grass]: "#3fa129",
+  [PokemonType.Planta]: "#3fa129",
   [PokemonType.Ice]: "#3fd8ff",
   [PokemonType.Fighting]: "#ff8000",
   [PokemonType.Poison]: "#8f41cb",
