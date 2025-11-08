@@ -348,7 +348,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 1,
     steel: 1,
-    fairy: 1,
+    hada: 1,
   },
   fire: {
     normal: 1,
@@ -368,7 +368,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 1,
     steel: 0.5,
-    fairy: 0.5,
+    hada: 0.5,
   },
   water: {
     normal: 1,
@@ -388,7 +388,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 1,
     steel: 0.5,
-    fairy: 1,
+    hada: 1,
   },
   electric: {
     normal: 1,
@@ -408,7 +408,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 1,
     steel: 0.5,
-    fairy: 1,
+    hada: 1,
   },
   grass: {
     normal: 1,
@@ -428,7 +428,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 1,
     steel: 1,
-    fairy: 1,
+    hada: 1,
   },
   ice: {
     normal: 1,
@@ -448,7 +448,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 1,
     steel: 2,
-    fairy: 1,
+    hada: 1,
   },
   fighting: {
     normal: 1,
@@ -468,7 +468,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 0.5,
     steel: 1,
-    fairy: 2,
+    hada: 2,
   },
   poison: {
     normal: 1,
@@ -488,7 +488,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 1,
     steel: 1,
-    fairy: 0.5,
+    hada: 0.5,
   },
   ground: {
     normal: 1,
@@ -508,7 +508,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 1,
     steel: 1,
-    fairy: 0.5,
+    hada: 0.5,
   },
   flying: {
     normal: 1,
@@ -528,7 +528,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 1,
     steel: 1,
-    fairy: 1,
+    hada: 1,
   },
   psychic: {
     normal: 1,
@@ -548,7 +548,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 2,
     steel: 1,
-    fairy: 1,
+    hada: 1,
   },
   bug: {
     normal: 1,
@@ -568,7 +568,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 1,
     steel: 1,
-    fairy: 1,
+    hada: 1,
   },
   rock: {
     normal: 0.5,
@@ -588,7 +588,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 1,
     steel: 2,
-    fairy: 1,
+    hada: 1,
   },
   ghost: {
     normal: 0,
@@ -608,7 +608,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 2,
     steel: 1,
-    fairy: 1,
+    hada: 1,
   },
   dragon: {
     normal: 1,
@@ -628,7 +628,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 2,
     dark: 1,
     steel: 1,
-    fairy: 2,
+    hada: 2,
   },
   dark: {
     normal: 1,
@@ -648,7 +648,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 1,
     dark: 0.5,
     steel: 1,
-    fairy: 2,
+    hada: 2,
   },
   steel: {
     normal: 0.5,
@@ -668,9 +668,9 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 0.5,
     dark: 0.5,
     steel: 0.5,
-    fairy: 0.5,
+    hada: 0.5,
   },
-  fairy: {
+  hada: {
     normal: 1,
     fire: 1,
     water: 1,
@@ -688,7 +688,7 @@ export const TYPE_CHART_WEAKNESSES: Record<
     dragon: 0,
     dark: 0.5,
     steel: 2,
-    fairy: 1,
+    hada: 1,
   },
 };
 
@@ -710,7 +710,7 @@ const defaultDamageRelation: Record<PokemonType, number> = {
   dragon: 1,
   dark: 1,
   steel: 1,
-  fairy: 1,
+  hada: 1,
 };
 
 export function getDefaultDamageRelation(): Record<PokemonType, number> {

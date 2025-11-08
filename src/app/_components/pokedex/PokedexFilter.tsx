@@ -75,7 +75,7 @@ const typeSelectorItems: selectorItem<PokemonType>[] = [
   { label: "Dragón", value: PokemonType.Dragon },
   { label: "Siniestro", value: PokemonType.Dark },
   { label: "Acero", value: PokemonType.Steel },
-  { label: "Hada", value: PokemonType.Fairy },
+  { label: "Hada", value: PokemonType.Hada },
 ];
 
 interface ListBoxFilterProps {
