@@ -2,7 +2,7 @@ export enum PokemonType {
   Normal = "normal",
   Fire = "fire",
   Water = "water",
-  Electric = "electric",
+  Eléctrico = "eléctrico",
   Grass = "grass",
   Ice = "ice",
   Fighting = "fighting",
