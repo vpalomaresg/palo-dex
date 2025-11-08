@@ -4,7 +4,7 @@
     "pokeapiId": 722,
     "name": "Rowlet",
     "formName": null,
-    "types": ["planta", "flying"],
+    "types": ["planta", "volador"],
     "stats": {
       "hp": 68,
       "attack": 55,
@@ -24,7 +24,7 @@
     "pokeapiId": 723,
     "name": "Dartrix",
     "formName": null,
-    "types": ["planta", "flying"],
+    "types": ["planta", "volador"],
     "stats": {
       "hp": 78,
       "attack": 75,
@@ -44,7 +44,7 @@
     "pokeapiId": 724,
     "name": "Decidueye",
     "formName": null,
-    "types": ["planta", "ghost"],
+    "types": ["planta", "fantasma"],
     "stats": {
       "hp": 78,
       "attack": 107,
@@ -64,7 +64,7 @@
     "pokeapiId": 10244,
     "name": "Decidueye (Hisui)",
     "formName": "Forma Hisui",
-    "types": ["planta", "fighting"],
+    "types": ["planta", "lucha"],
     "stats": {
       "hp": 88,
       "attack": 112,
@@ -84,7 +84,7 @@
     "pokeapiId": 725,
     "name": "Litten",
     "formName": null,
-    "types": ["fire"],
+    "types": ["fuego"],
     "stats": {
       "hp": 45,
       "attack": 65,
@@ -104,7 +104,7 @@
     "pokeapiId": 726,
     "name": "Torracat",
     "formName": null,
-    "types": ["fire"],
+    "types": ["fuego"],
     "stats": {
       "hp": 65,
       "attack": 85,
@@ -124,7 +124,7 @@
     "pokeapiId": 727,
     "name": "Incineroar",
     "formName": null,
-    "types": ["fire", "dark"],
+    "types": ["fuego", "siniestro"],
     "stats": {
       "hp": 95,
       "attack": 115,
@@ -144,7 +144,7 @@
     "pokeapiId": 728,
     "name": "Popplio",
     "formName": null,
-    "types": ["water"],
+    "types": ["agua"],
     "stats": {
       "hp": 50,
       "attack": 54,
@@ -164,7 +164,7 @@
     "pokeapiId": 729,
     "name": "Brionne",
     "formName": null,
-    "types": ["water"],
+    "types": ["agua"],
     "stats": {
       "hp": 60,
       "attack": 69,
@@ -184,7 +184,7 @@
     "pokeapiId": 730,
     "name": "Primarina",
     "formName": null,
-    "types": ["water", "hada"],
+    "types": ["agua", "hada"],
     "stats": {
       "hp": 80,
       "attack": 74,
@@ -244,7 +244,7 @@
     "pokeapiId": 652,
     "name": "Chesnaught",
     "formName": null,
-    "types": ["planta", "fighting"],
+    "types": ["planta", "lucha"],
     "stats": {
       "hp": 88,
       "attack": 107,
@@ -264,7 +264,7 @@
     "pokeapiId": 653,
     "name": "Fennekin",
     "formName": null,
-    "types": ["fire"],
+    "types": ["fuego"],
     "stats": {
       "hp": 40,
       "attack": 45,
@@ -284,7 +284,7 @@
     "pokeapiId": 654,
     "name": "Braixen",
     "formName": null,
-    "types": ["fire"],
+    "types": ["fuego"],
     "stats": {
       "hp": 59,
       "attack": 59,
@@ -304,7 +304,7 @@
     "pokeapiId": 655,
     "name": "Delphox",
     "formName": null,
-    "types": ["fire", "psíquico"],
+    "types": ["fuego", "psíquico"],
     "stats": {
       "hp": 75,
       "attack": 69,
@@ -324,7 +324,7 @@
     "pokeapiId": 656,
     "name": "Froakie",
     "formName": null,
-    "types": ["water"],
+    "types": ["agua"],
     "stats": {
       "hp": 41,
       "attack": 56,
@@ -344,7 +344,7 @@
     "pokeapiId": 657,
     "name": "Frogadier",
     "formName": null,
-    "types": ["water"],
+    "types": ["agua"],
     "stats": {
       "hp": 54,
       "attack": 63,
@@ -364,7 +364,7 @@
     "pokeapiId": 658,
     "name": "Greninja",
     "formName": null,
-    "types": ["water", "dark"],
+    "types": ["agua", "siniestro"],
     "stats": {
       "hp": 72,
       "attack": 95,
@@ -424,7 +424,7 @@
     "pokeapiId": 908,
     "name": "Meowscarada",
     "formName": null,
-    "types": ["planta", "dark"],
+    "types": ["planta", "siniestro"],
     "stats": {
       "hp": 76,
       "attack": 110,
@@ -444,7 +444,7 @@
     "pokeapiId": 909,
     "name": "Fuecoco",
     "formName": null,
-    "types": ["fire"],
+    "types": ["fuego"],
     "stats": {
       "hp": 67,
       "attack": 45,
@@ -464,7 +464,7 @@
     "pokeapiId": 910,
     "name": "Crocalor",
     "formName": null,
-    "types": ["fire"],
+    "types": ["fuego"],
     "stats": {
       "hp": 81,
       "attack": 55,
@@ -484,7 +484,7 @@
     "pokeapiId": 911,
     "name": "Skeledirge",
     "formName": null,
-    "types": ["fire", "ghost"],
+    "types": ["fuego", "fantasma"],
     "stats": {
       "hp": 104,
       "attack": 75,
@@ -504,7 +504,7 @@
     "pokeapiId": 912,
     "name": "Quaxly",
     "formName": null,
-    "types": ["water"],
+    "types": ["agua"],
     "stats": {
       "hp": 55,
       "attack": 65,
@@ -524,7 +524,7 @@
     "pokeapiId": 913,
     "name": "Quaxwell",
     "formName": null,
-    "types": ["water"],
+    "types": ["agua"],
     "stats": {
       "hp": 70,
       "attack": 85,
@@ -544,7 +544,7 @@
     "pokeapiId": 914,
     "name": "Quaquaval",
     "formName": null,
-    "types": ["water", "fighting"],
+    "types": ["agua", "lucha"],
     "stats": {
       "hp": 85,
       "attack": 120,
