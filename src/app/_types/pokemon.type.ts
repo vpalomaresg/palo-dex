@@ -16,5 +16,5 @@ export enum PokemonType {
   Dragon = "dragon",
   Dark = "dark",
   Steel = "steel",
-  Hada = "hada",
+  Fairy = "fairy",
 }

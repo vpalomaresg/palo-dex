@@ -184,7 +184,7 @@
     "pokeapiId": 730,
     "name": "Primarina",
     "formName": null,
-    "types": ["water", "hada"],
+    "types": ["water", "fairy"],
     "stats": {
       "hp": 80,
       "attack": 74,
