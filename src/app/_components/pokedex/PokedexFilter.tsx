@@ -21,7 +21,7 @@ type selectorItem<T> = {
 const genSelectorItems: selectorItem<Gen>[] = [
   {
     label: "1ᵃ GEN",
-    value: "1",
+    value: "red-blue",
   },
   {
     label: "2ᵃ GEN",

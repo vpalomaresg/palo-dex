@@ -1,5 +1,5 @@
 export type Gen =
-  | "1"
+  | "red-blue"
   | "crystal"
   | "firered-leafgreen"
   | "platinum"
