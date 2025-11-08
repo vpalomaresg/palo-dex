@@ -145,7 +145,7 @@ export const Pokedex = ({ game }: PokedexProps) => {
   function updateQueryParams() {
     const params = new URLSearchParams();
     if (searchString !== "") {
-      params.set("search", searchString);
+      params.set("buscar", searchString);
     }
     if (type1filter) {
       params.set("tipo1", type1filter);
