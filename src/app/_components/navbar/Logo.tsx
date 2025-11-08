@@ -1,5 +1,3 @@
-
-
 export const SecretBaseLogo = () => {
   return (
     <svg
