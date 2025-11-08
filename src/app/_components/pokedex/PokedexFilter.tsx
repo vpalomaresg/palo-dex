@@ -53,7 +53,7 @@ const genSelectorItems: selectorItem<Gen>[] = [
   },
   {
     label: "9ᵃ GEN",
-    value: "scarlet-violet",
+    value: "9",
   },
 ];
 

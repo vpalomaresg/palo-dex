@@ -7,4 +7,4 @@ export type Gen =
   | "omega-ruby-alpha-sapphire"
   | "ultra-sun-ultra-moon"
   | "sword-shield"
-  | "scarlet-violet";
+  | "9";

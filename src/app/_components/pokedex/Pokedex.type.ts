@@ -24,5 +24,5 @@ export const genIndexMap: Record<Gen, GenIndex> = {
   "omega-ruby-alpha-sapphire": [650, 721],
   "ultra-sun-ultra-moon": [722, 809],
   "sword-shield": [810, 905],
-  "scarlet-violet": [906, 1025],
+  "9": [906, 1025],
 };
